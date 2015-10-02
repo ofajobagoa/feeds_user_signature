@@ -6,3 +6,4 @@ Allows mapping of a text signature to a user's signature
 
 2) Use Drush command for install module:
 	drush en -y feeds_user_signature
+Буду использовать этот модуль для сайта http://forsage4.ru с различными объявлениями.
